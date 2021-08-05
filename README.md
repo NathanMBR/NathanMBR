@@ -3,6 +3,9 @@
 # Hi, I'm Nathan
 I'm a 19 years old Node backend developer. My hobbies are playing videogames and watching anime.
 
+## Learning methods
+When I'm learning some new technology, I create a repository with the "-training" termination and put in it the most important things to learn (main functions and methods, usage, configuration, etc). I use these repositories when, in the future, I need to use the technology: just take a look at the code to remember how it's used. Particularly, I believe that this method is very efficient, since I don't need to memorize the code itself, just its use.
+
 ## Skills and Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" heigth="40" style="max-width: 100%;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" heigth="40" style="max-width: 100%;">
