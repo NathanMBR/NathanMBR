@@ -58,7 +58,6 @@ When I'm learning some new technology, I create a repository with the "-training
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" heigth="40" style="max-width: 100%;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" title="Arduino" width="40" heigth="40" style="max-width: 100%;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" title="Rust" width="40" heigth="40" style="max-width: 100%;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="Adobe After Effects" title="Adobe After Effects" width="40" heigth="40" style="max-width: 100%;">
 
 ## Contact me
 <a href="https://www.linkedin.com/in/nathanmurillo/?locale=en_US"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
