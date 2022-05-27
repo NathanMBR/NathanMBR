@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hi, I'm Nathan
-I'm a 19 years old Node backend developer. My hobbies are play videogames and watch anime.
+I'm a 20 years old Node backend developer. My hobbies are play videogames and watch anime.
 
 ## Learning methods
 When I'm learning some new technology, I create a repository and fill it with the most important things to learn (main functions and methods, usage, configuration, etc). I use these repositories when, in the future, I need to use the technology: just take a look at the code to remember how it's used. Particularly, I believe that this method is very efficient, since I don't need to memorize the code itself, just its use.
