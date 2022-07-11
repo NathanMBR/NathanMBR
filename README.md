@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hi, I'm Nathan
-I'm a Node/TypeScript backend developer.
+I'm a junior Node/TypeScript backend developer.
 
 ## Main skills/technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="40" heigth="40" style="max-width: 100%;">
