@@ -22,8 +22,8 @@ I'm a junior Node/TypeScript backend developer.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="40" heigth="40" style="max-width: 100%;">
 
 ## Contact me
-<a href="https://www.linkedin.com/in/nathanmurillo/?locale=en_US"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-<a href="mailto:nathanmurillodeoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+<a href="https://www.linkedin.com/in/nathanmurillo/?locale=en_US"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"></img></a>
+<a href="mailto:nathanmurillodeoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email address (Gmail)" title="Email address (Gmail)"></img></a>
 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanMBR&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
