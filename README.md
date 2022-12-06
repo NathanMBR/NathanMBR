@@ -9,12 +9,12 @@ I'm a Node/TypeScript backend developer.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" heigth="40" style="max-width: 100%;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node" title="Node" width="40" heigth="40" style="max-width: 100%;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" heigth="40" style="max-width: 100%;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="Amazon Web Services" title="Amazon Web Services" width="40" height="40" style="max-width: 100%;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" heigth="40" style="max-width: 100%;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" heigth="40" style="max-width: 100%;">
 
 ## Currently studying
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" style="max-width: 100%;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="Amazon Web Services" title="Amazon Web Services" width="40" height="40" style="max-width: 100%;"/>
   
 ## Planning to study
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="40" heigth="40" style="max-width: 100%;">
