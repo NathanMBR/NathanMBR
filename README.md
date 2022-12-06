@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hi, I'm Nathan
-I'm a junior Node/TypeScript backend developer.
+I'm a Node/TypeScript backend developer.
 
 ## Main skills/technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="40" heigth="40" style="max-width: 100%;">
@@ -13,7 +13,7 @@ I'm a junior Node/TypeScript backend developer.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" heigth="40" style="max-width: 100%;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" heigth="40" style="max-width: 100%;">
 
-## Planning to study (someday)
+## Planning to study
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" style="max-width: 100%;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="40" heigth="40" style="max-width: 100%;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" width="40" heigth="40" style="max-width: 100%;">
